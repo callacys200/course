@@ -419,6 +419,7 @@ body{
 
 .moduleBtn h2 {
   font-size: 22px;
+  color: white;
 }
 
 /* Reduce spacing between sections */
@@ -474,3 +475,4 @@ body{
 body {
   overflow-x: hidden;
 }
+
